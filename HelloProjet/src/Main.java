@@ -5,6 +5,8 @@ public class Main {
     @Test
     public void testHelloWorld() {
         System.out.println("HelloWorld!");
+        System.out.println("HelloWorld2!");
+        System.out.println("HelloWorld3!");
     }
 
     @Test
