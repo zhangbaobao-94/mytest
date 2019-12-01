@@ -8,7 +8,6 @@ public class Main {
         System.out.println("HelloWorld2!");
         System.out.println("HelloWorld3!");
     }
-
  
     @Test
     public void testHelloWorld2() {
@@ -19,7 +18,4 @@ public class Main {
     public void testHelloWorld3() {
         System.out.println("HelloWorld, java");
     }
- 
- 
- 
 }
