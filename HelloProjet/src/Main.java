@@ -15,4 +15,11 @@ public class Main {
         System.out.println("HelloWorld, java");
     }
  
+    @Test
+    public void testHelloWorld3() {
+        System.out.println("HelloWorld, java");
+    }
+ 
+ 
+ 
 }
